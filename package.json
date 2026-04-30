@@ -9,9 +9,17 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@ai-sdk/google": "^3.0.65",
+    "@ai-sdk/openai": "^3.0.54",
+    "ai": "^6.0.170",
+    "dom-to-image-more": "^3.7.2",
+    "jszip": "^3.10.1",
     "next": "16.2.4",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-colorful": "^5.6.1",
+    "react-dom": "19.2.4",
+    "zod": "^4.4.1",
+    "zustand": "^5.0.12"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
